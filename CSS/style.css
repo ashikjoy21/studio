@@ -1,17 +1,17 @@
 @font-face {
     font-family: neu;
-    src: url(/Sundwn-Studio/fonts/NeueHaasDisplayMediu.ttf);
+    src: url(/fonts/NeueHaasDisplayMediu.ttf);
 }
 @font-face {
     font-family: neu;     
    
     font-weight: 100;
-    src: url(/Sundwn-Studio/fonts/NeueHaasDisplayLight.ttf);
+    src: url(/fonts/NeueHaasDisplayLight.ttf);
 }
 @font-face {
     font-family: neu;
     font-weight: 200;
-    src: url(/Sundwn-Studio/fonts/NeueHaasDisplayRoman.ttf);
+    src: url(/fonts/NeueHaasDisplayRoman.ttf);
 }
 
 *{
